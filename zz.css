@@ -1,0 +1,29 @@
+
+body{
+    background-color: beige;
+}
+
+#up{
+    color: brown;
+    font-size: xx-large;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.wlcm{
+    color: darkolivegreen;
+    font-size: medium;
+    font-family: 'Poppins';
+    align-items: center;
+}
+
+img{
+    width: 20rem;
+    height: 20rem;
+    object-fit: contain;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
